@@ -1,0 +1,1 @@
+# el ejericio dos es en el osciloscopio
