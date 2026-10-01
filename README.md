@@ -47,6 +47,3 @@ Los ZIP originales permanecen en el archivo privado de respaldo. Este repositori
 
 Se han excluido de esta edición pública 10 ejercicios con errores de sintaxis; consulta el informe de validación.
 
-## Selección actual
-
-La colección se ha ajustado a la selección del autor. Geometría y Ecuaciones Diferenciales se han retirado; Adquisición conserva las prácticas 2 y 3, Métodos Numéricos las prácticas y Sistemas las prácticas de laboratorio. Programación reúne la antigua carpeta Programación II y el proyecto en `proyecto/`. Los documentos de procedencia y validación anteriores son registros históricos; [el mapa de esta reorganización](docs/organizacion-actual.csv) identifica los archivos retirados y sus nuevas rutas. Las retiradas afectan a la versión actual, no al historial Git.
